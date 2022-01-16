@@ -1,0 +1,14 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "quantity": 2,
+            "id_product": 2,
+            "product_name": "Планшет",
+            "price": 20000,
+            "imgProduct": "./img/products/2.jpg",
+            "imgCart": "./img/cart/2.jpg"
+        }
+    ]
+}
