@@ -1,0 +1,22 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "quantity": 3,
+            "id_product": 3,
+            "product_name": "Мышка",
+            "price": 1400,
+            "imgProduct": "./img/products/3.jpg",
+            "imgCart": "./img/cart/3.jpg"
+        },
+        {
+            "quantity": 1,
+            "id_product": 4,
+            "product_name": "Клавиатура",
+            "price": 3200,
+            "imgProduct": "./img/products/4.jpg",
+            "imgCart": "./img/cart/4.jpg"
+        }
+    ]
+}
